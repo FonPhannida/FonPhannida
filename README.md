@@ -11,7 +11,7 @@ I'm Fon Phannida, a test engineer with a passion for testing and interested in i
 📫 **About Me**
 <br>🔭 I’m currently working as a **Test Engineer** with expertise in Automation Testing.
 <br>💧 I love learning new things. (though I can be a bit lazy at times 🤔)
-<br>🙊 At the age of 24 years and 113 months, I realized that I am a fast learner.
+<br>🙊 At 24 years and 113 months old, I realized that I am a fast learner.
 <br>🌼 Playing Sudoku is my favorite hobby.
 <br>🎮 In my free time, I edit video gameplay.🌚 <a href="https://www.tiktok.com/@il0vepeachtea" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=logo=tiktok&logoColor=white"   />
