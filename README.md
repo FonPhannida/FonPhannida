@@ -19,7 +19,7 @@ I'm Fon Phannida, a test engineer with a passion for testing and interested in i
 
 <br>⚡ Oh, and I know a trick to win the numbers3 government lottery every 1st and 16th! 😄
 
-**Skills**
+💻 **Skills**
 <br>**Code**: `🐍 Python 💻 SQL 🌐 JavaScript(basic)  🔠 HTML/CSS`
 <br>**Tools**: `🧰 Git 📊 Jira 📚 Confluence 🧪 TestComplete  📦 Postman 🚥 JMeter 🛠️ Katalon`
 <br>**Frameworks**: `🔧 Selenium  🤖 Robot Framework  📱 Appium  🔬 Cypress (learning...)`
