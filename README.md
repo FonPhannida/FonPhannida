@@ -23,7 +23,7 @@ I'm Fon Phannida, a test engineer with a passion for testing and interested in i
 <br>**Code**: `🐍 Python 💻 SQL 🌐 JavaScript(basic)  🔠 HTML/CSS`
 <br>**Tools**: `🧰 Git 📊 Jira 📚 Confluence 🧪 TestComplete  📦 Postman 🚥 JMeter 🛠️ Katalon`
 <br>**Frameworks**: `🔧 Selenium  🤖 Robot Framework  📱 Appium  🔬 Cypress (learning...)`
-<br>**Testing**:  `⚙️ Automation Testing 🔌 API Testing 📝 Manual Testing 🚀 Performance Testing`
+<br>**Testing**:  `⚙️ Automation Testing 🔌 API Testing 📝 Manual Testing 🚀 Performance Testing 🔒 Security Testing` 
 <br>**Languages**:  `🇬🇧  🇹🇭  🇨🇳(learning...)`
 
 
