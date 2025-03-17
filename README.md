@@ -22,7 +22,8 @@ I'm Fon Phannida, a test engineer with a passion for testing and interested in i
 💻 **Skills**
 <br>**Code**: `🐍 Python 💻 SQL 🌐 JavaScript(basic)  🔠 HTML/CSS`
 <br>**Tools**: `🧰 Git 📊 Jira 📚 Confluence 🧪 TestComplete  📦 Postman 🚥 JMeter 🛠️ Katalon`
-<br>**Frameworks**: `🔧 Selenium  🤖 Robot Framework  📱 Appium  🔬 Cypress (learning...)`
+<br>**Frameworks**: `🔧 Selenium  🤖 Robot Framework  📱 Appium  🔬 Cypress (learning...)`   <a href="https://github.com/FonPhannida/test_automation_review/tree/main/k6-testing"  target="_blank"> 
+  <img src="https://img.shields.io/badge/K6-GitHub-181717?logo=github&logoColor=white&color=blueviolet" /></a>`K6`
 <br>**Testing**:  `⚙️ Automation Testing 🔌 API Testing 📝 Manual Testing 🚀 Performance Testing 🔒 Security Testing` 
 <br>**Languages**:  `🇬🇧  🇹🇭  🇨🇳(learning...)`
 
